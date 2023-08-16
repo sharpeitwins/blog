@@ -1,4 +1,4 @@
-baseURL = "http://malware.foundation/"
+baseURL = "https://malware.foundation/"
 languageCode = "en-us"
 title = "Malware Foundation"
 theme = "risotto"
