@@ -39,3 +39,5 @@ Programming Languages
 : **Reverse Engineering** : gdb w/ gef, ghidra, x64dbg, 010, CFF, pe-bear, dnspy
 : **Intel** : MISP, Cortex w/ Hive, Maltego, Spiderfoot
 : **Forensics** : Wireshark, Volatility
+
+<a href='https://pixeldreams.tokyo/cgi-bin/webring.cgi?before=https://ftp.lol/'>&lt;&lt;&lt;</a> this site is part of the haunted webring <a href='https://pixeldreams.tokyo/cgi-bin/webring.cgi?after=https://ftp.lol/'>&gt;&gt;&gt;</a>
